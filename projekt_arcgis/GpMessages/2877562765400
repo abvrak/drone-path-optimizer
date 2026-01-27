@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: wtorek, 27 stycznia 2026 13:49:20</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "C:\Projekty\Drone-Path-Optimizer\projekt_arcgis\drone_path_optimizer_project.atbx\dronepathoptimizer.tool\tool.script.execute.py", line 220, in &lt;module&gt;
+﻿  File "C:\Projekty\Drone-Path-Optimizer\projekt_arcgis\drone_path_optimizer_project.atbx\dronepathoptimizer.tool\tool.script.execute.py", line 205, in main
+﻿  File "C:\Projekty\Drone-Path-Optimizer\projekt_arcgis\drone_path_optimizer_project.atbx\dronepathoptimizer.tool\tool.script.execute.py", line 162, in compute_path
+﻿  File "C:\Projekty\Drone-Path-Optimizer\projekt_arcgis\drone_path_optimizer_project.atbx\dronepathoptimizer.tool\tool.script.execute.py", line 94, in build_cost_raster
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\conversion.py", line 4613, in PolygonToRaster
+﻿    raise e
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\conversion.py", line 4604, in PolygonToRaster
+﻿    gp.PolygonToRaster_conversion(
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 533, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: Failed to execute. Parameters are not valid.
+ERROR 000728: Field FID does not exist within table
+Failed to execute (PolygonToRaster).
+
+</msg><msg code="0" type="0">Failed script Drone path optimizer...</msg><msg code="-2147467259" type="100">Failed to execute (dronepathoptimizer).</msg><msg code="0" type="3">Failed at wtorek, 27 stycznia 2026 13:49:23 (Elapsed Time: 3,78 seconds)</msg></messages>

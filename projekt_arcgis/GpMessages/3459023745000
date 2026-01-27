@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: wtorek, 27 stycznia 2026 13:59:01</msg><msg code="0" type="50">Nie udało się utworzyć trasy 3D: Failed to execute. Parameters are not valid.
+ERROR 000732: Input Raster: Dataset C:\Projekty\Drone-Path-Optimizer\projekt_arcgis\drone_path_optimizer_project.gdb\drone_path_3d_tmp does not exist or is not supported
+ERROR 000732: Input Snap Raster: Dataset 20 does not exist or is not supported
+Failed to execute (Shift).
+</msg><msg code="0" type="0">Wynik zapisany: C:\Projekty\Drone-Path-Optimizer\projekt_arcgis\drone_path_optimizer_project.gdb\drone_path</msg><msg code="0" type="3">Succeeded at wtorek, 27 stycznia 2026 13:59:34 (Elapsed Time: 32,74 seconds)</msg></messages>
